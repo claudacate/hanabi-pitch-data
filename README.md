@@ -3,8 +3,8 @@
 The Japanese pitch-accent table used by the Hanabi app, published here as its
 CC BY-SA 4.0 licence requires.
 
-The `stdict/` folder holds a separate Korean word list from 표준국어대사전 under its own licence
-(CC BY-SA 2.0 KR); see `stdict/README.md`. The files below are only the pitch-accent data.
+The `stdict/` folder holds separate Korean pronunciation lists from 표준국어대사전 and 한국어기초사전 under
+their own licence (CC BY-SA 2.0 KR); see `stdict/README.md`. The files below are only the pitch-accent data.
 
 ## Files
 
